@@ -1,0 +1,7 @@
+1:20 generate pic
+1:25 config vs
+2:08 pack to jar
+
+(require '[flytag.core :reload :all])
+
+
